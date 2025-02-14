@@ -2,11 +2,10 @@
 The project is a customer behaviour analytics project aimed at segmenting customers of Travel tide and defining rule based segments based on their behaviour as part of a reward program.  
 <img width="182" alt="Screenshot 2025-02-12 at 15 46 26" src="https://github.com/user-attachments/assets/7afa6c3c-c304-4a6a-a083-0097adf208c1" />
 
-
 # Description
-Travel Tide, the online platform for travel itinerary. It is believed to offer the largest travel inventory in the industry. The company faces a main challenge in customer retention.   
-The top executives believe that understanding customer behaviour and offering rewards in terms of perks can be a fruitful strategy in retaining customers.  
-Keeping this in mind, following perks are on offer:  
+Travel Tide, the online platform for travel itinerary. It is believed to offer the largest travel inventory in the industry. The company faces a main challenge in customer retention.     
+The top executives believe that understanding customer behaviour and offering rewards in terms of perks can be a fruitful strategy in retaining customers.    
+Keeping this in mind, following perks are on offer:    
 1. 1 night free hotel with flight
 2. Free hotel meal
 3. Free checked bag
@@ -14,30 +13,30 @@ Keeping this in mind, following perks are on offer:
 5. No cancellation fees
 
 # Objective
-The broad aim of the project is to understand customer behaviour and segment in different clusters.  
-Based on this segmentation, offer one of the predefined perks to each segment.  
+The broad aim of the project is to understand customer behaviour and segment in different clusters.    
+Based on this segmentation, offer one of the predefined perks to each segment.     
 
 # Methodology
-1. **Data cleaning and processing**: The raw data was extracted and filtered to contain sessions after 04 January 2024 and users with more than 7 sessions. The data was cleaned using Postgresql.
+1. **Data cleaning and processing**: The raw data was extracted and filtered to contain sessions after 04 January 2024 and users with more than 7 sessions. The data was cleaned using Postgresql.  
 2. **Exploratory data analysis (EDA)**: EDA was doen using Postresql and Tableau.  
 3. **Segmentation**: Multiple features were used to understand customer behaviour. Rule based approach was used to define customer segments based on the analysed features. Each customer segment was assigned one perks based on the analysis of customer beahviour from each segment. 
 4. **Visualisation**: Visualisations were created using Tableau 
   
 # Key findings
-Least number of users eligible for most valuable perk of "1 night free hotel with flight".  
-Maximum users are eligible for "Free checked baggage perk".
-Women travllers outnumbered men travellers in all segments.
-Mid age (31-50 years) travellers account for almost 60% of all travellers.
-One-third of all users are women-mid age-solo travellers.  
+1. Least number of users eligible for most valuable perk of "1 night free hotel with flight".  
+2. Maximum users are eligible for "Free checked baggage perk".  
+3. Women travllers outnumbered men travellers in all segments.  
+4. Mid age (31-50 years) travellers account for almost 60% of all travellers.  
+5. One-third of all users are women-mid age-solo travellers.  
 
 # Recommendations
-Validation of segmentation by other methods such as A/B testing is recommended.  
-It is advised to collect customer feedback about the services and improve understanding of customer behaviour.  
-Strategic changes to attract more men as well as young age users are recommended.  
+1. Validation of segmentation by other methods such as A/B testing is recommended.  
+2. It is recommended to collect customer feedback about the services and improve understanding of customer behaviour.  
+3. Strategic changes to attract more men as well as young age users are recommended.  
 
 # Tools used
-**SQL**: Data extraction, filtering, cleaning and analysis
-**Tableau**: Visualisation and analysis
+**SQL**: Data extraction, filtering, cleaning and analysis  
+**Tableau**: Visualisation and analysis  
 
 # Disclaimer
 The project was done as part of the mastery project for completion of Data Analytics Program at Masteeschool.  
