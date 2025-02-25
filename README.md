@@ -12,6 +12,16 @@ Keeping this in mind, following perks are on offer:
 4. Exclusive discounts
 5. No cancellation fees
 
+# Table of Contents
+- [Description](#Description)
+- [Objective](#Objective)
+- [Methodology](#Methodology)
+- [Key findings](#Key_findings)
+- [Recommendations](#Recommendations)
+- [Tools used](#Tools_used)
+- [Disclaimer](#Disclaimer)
+- [About the author](#About_the_author)
+
 # Objective
 The broad aim of the project is to understand customer behaviour and segment in different clusters.    
 Based on this segmentation, offer one of the predefined perks to each segment.     
