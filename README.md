@@ -16,11 +16,11 @@ Keeping this in mind, following perks are on offer:
 - [Description](#Description)
 - [Objective](#Objective)
 - [Methodology](#Methodology)
-- [Key findings](#Key_findings)
+- [Key findings](#Key-findings)
 - [Recommendations](#Recommendations)
-- [Tools used](#Tools_used)
+- [Tools used](#Tools-used)
 - [Disclaimer](#Disclaimer)
-- [About the author](#About_the_author)
+- [About the author](#About-the-author)
 
 # Objective
 The broad aim of the project is to understand customer behaviour and segment in different clusters.    
